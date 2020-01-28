@@ -2,7 +2,7 @@
 
 author:   Sebastian Zug & André Dietrich
 email:    zug@ovgu.de   & andre.dietrich@ovgu.de
-version:  0.0.1
+version:  1.0.1
 language: de
 narrator: Deutsch Female
 
@@ -19,9 +19,15 @@ import: https://raw.githubusercontent.com/LiaTemplates/NetSwarm-Simulator/master
 # Coding-Event an der TU Freiberg
 @logo
 
-![RoboterSystem](./img/Announcement.png)<!-- width="90%" -->
+![RoboterSystem](./img/Announcement.png)<!-- width="80%" -->
 
  <font size="10">Herzlich willkommen!</font>
+
+-------------------------------------------------------------------------------
+Dieser Kurs wurde in LiaScript erstellt. Die interaktive Version finden Sie unter
+[LiaLink](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/CodingEventFreiberg/master/Tutorial.md#1)
+
+Sebastian Zug, TU Bergakademie Freiberg
 
 ## Motivation
 @logo
@@ -110,7 +116,10 @@ Wichtige Grundeinstellungen:
 * Wir :-)
 
 Zudem finden Sie im Netz eine Vielzahl von Projektbeschreibungen, die die
-technische Realisierung auf Hard und Softwareebene beschreiben.
+technische Realisierung auf Hard und Softwareebene beschreiben. Zum Beispiel zum Thema
+
++ LED Stripe [Link](https://www.heise.de/developer/artikel/Von-Erleuchtungen-und-Lichterketten-3277261.html)
+
 
 ## Verfügbare Materialien
 @logo
@@ -500,6 +509,8 @@ void printWifiStatus() {
 
 3. Intelligenter Wecker, der die Fahrtzeit zur Uni in Abhänigkeit vom Wetter bestimmt und eine adaptive Weckzeit festlegt.
 
+> Noch ein Wort zum Teamplay! Sie arbeiten heute in interdisziplinären Gruppen mit einem unterschiedlichen Kompentenzen. Berücksichtigen Sie dies bei der Kommunikation und Diskussion!
+
 ![Welcome](./img/WorkingDesk.jpg "Experiments")<!-- width="80%" -->
 
- <font size="10">Viel Spaß!</font>
+ <font size="10">Los geht`s, Viel Spaß!</font>
